@@ -1,0 +1,14 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+
+# API Keys - NEVER push these
+llm.py
+
+# Uploads
+uploads/
+
+# Node
+frontend/node_modules/
